@@ -98,7 +98,7 @@
     <tr>
       <td>6. Gantt Diagram</td>
       <td>
-        <img src="Gantt.jpg" width="700"></img>
+        <img src="Gantt.jpg" width="700" />
       </td>
     </tr>
     <tr>
