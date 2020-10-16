@@ -1,4 +1,4 @@
-<table style="width:60%" align = "center">
+
     <tr>
       <td>Note </td>
       <td>I create github project named MyWonder (with 2 repos named MyWonder_App and MyWonder_Documentation) under an organization named Khider&Garijo CORP (account Khider-GarijoCORP). The intention of making 2 repos was to simulate different teams repo assignment</td>
@@ -119,4 +119,4 @@
 
         </td>
       </tr>
-  </table>
+  
